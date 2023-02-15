@@ -110,7 +110,7 @@ const Result: React.FC = () => {
 
           {!loading && !error && (
             <Typography variant="h4" sx={{ marginBottom: "10px" }}>
-              Total: {distances.totalDistance} km
+              Total: {distances.totalDistance} Km
             </Typography>
           )}
         </Box>
