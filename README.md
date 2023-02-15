@@ -11,6 +11,7 @@ https://test-mozio-search-distance.vercel.app/
 - Error handling
 - Distance calculation using Haversine distance formula
 - Unit testing
+- Github/Vercel CI/CD
 
 ## Used libraries
 - MUI - React UI library
